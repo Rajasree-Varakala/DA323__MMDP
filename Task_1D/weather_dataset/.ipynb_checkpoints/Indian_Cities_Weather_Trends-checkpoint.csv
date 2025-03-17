@@ -1,0 +1,26 @@
+city,timestamp,temperature,humidity,wind_speed,weather_condition,weather_description
+Mumbai,2025-03-17 23:06:09,28.0,65,1.54,Smoke,smoke
+Delhi,2025-03-17 23:06:09,22.06,53,1.54,Haze,haze
+Bangalore,2025-03-17 23:06:09,26.91,56,2.57,Clouds,scattered clouds
+Hyderabad,2025-03-17 23:06:09,26.73,50,3.09,Clouds,few clouds
+Chennai,2025-03-17 23:06:09,28.85,85,3.09,Clouds,few clouds
+Kolkata,2025-03-17 23:06:09,27.96,83,4.12,Haze,haze
+Ahmedabad,2025-03-17 23:06:09,28.02,23,0.0,Smoke,smoke
+Pune,2025-03-17 23:06:09,26.75,29,0.86,Clouds,broken clouds
+Surat,2025-03-17 23:06:09,25.94,69,2.57,Haze,haze
+Jaipur,2025-03-17 23:06:09,23.69,31,1.03,Haze,haze
+Lucknow,2025-03-17 23:06:09,24.05,43,4.12,Haze,haze
+Kanpur,2025-03-17 23:06:09,22.58,23,3.19,Clear,clear sky
+Nagpur,2025-03-17 23:06:10,30.0,23,3.09,Haze,haze
+Indore,2025-03-17 23:06:10,25.09,33,2.06,Haze,haze
+Bhopal,2025-03-17 23:06:10,24.5,25,3.01,Clouds,scattered clouds
+Visakhapatnam,2025-03-17 23:06:10,26.78,89,1.54,Mist,mist
+Patna,2025-03-17 23:06:10,26.98,29,3.09,Haze,haze
+Vadodara,2025-03-17 23:06:10,26.0,34,0.0,Smoke,smoke
+Ghaziabad,2025-03-17 23:06:10,23.18,25,3.59,Clear,clear sky
+Ludhiana,2025-03-17 23:06:10,17.53,42,3.01,Clear,clear sky
+Coimbatore,2025-03-17 23:06:10,24.86,88,0.51,Mist,mist
+Chandigarh,2025-03-17 23:06:10,18.68,37,2.87,Clear,clear sky
+Agra,2025-03-17 23:06:10,22.13,24,3.31,Clear,clear sky
+Varanasi,2025-03-17 23:06:10,23.0,20,3.97,Clouds,scattered clouds
+Mysore,2025-03-17 23:06:11,22.65,69,0.94,Clouds,overcast clouds
