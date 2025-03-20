@@ -1,0 +1,101 @@
+country_code,country_name,flag_path,anthem_music_path,anthem_text_path,anthem_keywords
+me,Montenegro,flag_images\me.jpg,anthems_music\me.mp3,anthems_text\me.txt,"[('montenegro', 9), ('mother', 6), ('bright', 4), ('dawn', 4), ('may', 4), ('shall', 3), ('eternal', 3), ('sons', 2), ('rocks', 2), ('keepers', 2)]"
+ga,Gabon,flag_images\ga.jpg,anthems_music\ga.mp3,anthems_text\ga.txt,"[('us', 7), ('may', 4), ('let', 4), ('last', 3), ('gabon', 2), ('rise', 2), ('attain', 2), ('happiness', 2), ('ever', 2), ('banish', 2)]"
+bj,Benin,flag_images\bj.jpg,anthems_music\bj.mp3,anthems_text\bj.txt,"[('benin', 5), ('children', 2), ('arise', 2), ('ancestors', 2), ('courage', 2), ('spirit', 2), ('green', 2), ('hope', 2), ('richest', 2), ('resounding', 1)]"
+mg,Madagascar,flag_images\mg.jpg,anthems_music\mg.mp3,anthems_text\mg.txt,"[('oh', 5), ('beloved', 3), ('fatherland', 3), ('creator', 2), ('truly', 2), ('blessed', 2), ('wish', 2), ('good', 1), ('madagascar', 1), ('love', 1)]"
+sd,Sudan,flag_images\sd.jpg,anthems_music\sd.mp3,anthems_text\sd.txt,"[('land', 2), ('sudan', 2), ('army', 1), ('god', 1), ('shall', 1), ('never', 1), ('fail', 1), ('called', 1), ('sacrifice', 1), ('whether', 1)]"
+cv,Cape Verde,flag_images\cv.jpg,anthems_music\cv.mp3,anthems_text\cv.txt,
+cw,Curaçao,flag_images\cw.jpg,anthems_music\cw.mp3,anthems_text\cw.txt,
+mv,Maldives,flag_images\mv.jpg,anthems_music\mv.mp3,anthems_text\mv.txt,"[('salute', 4), ('nation', 3), ('national', 2), ('flag', 2), ('unity', 1), ('language', 1), ('offer', 1), ('prayers', 1), ('bow', 1), ('respect', 1)]"
+bn,Brunei Darussalam,flag_images\bn.jpg,anthems_music\bn.mp3,anthems_text\bn.txt,"[('kingdom', 2), ('god', 1), ('bless', 1), ('majesty', 1), ('long', 1), ('life', 1), ('justly', 1), ('nobly', 1), ('rule', 1), ('lead', 1)]"
+dm,Dominica,flag_images\dm.jpg,anthems_music\dm.mp3,anthems_text\dm.txt,
+pw,Palau,flag_images\pw.jpg,anthems_music\pw.mp3,anthems_text\pw.txt,
+la,Laos (Lao People's Democratic Republic),flag_images\la.jpg,anthems_music\la.mp3,anthems_text\la.txt,"[('lao', 4), ('people', 4), ('nation', 2), ('time', 1), ('glorified', 1), ('fatherland', 1), ('united', 1), ('heart', 1), ('spirit', 1), ('vigour', 1)]"
+mw,Malawi,flag_images\mw.jpg,anthems_music\mw.mp3,anthems_text\mw.txt,
+cr,Costa Rica,flag_images\cr.jpg,anthems_music\cr.mp3,anthems_text\cr.txt,
+np,Nepal,flag_images\np.jpg,anthems_music\np.mp3,anthems_text\np.txt,
+pf,French Polynesia,flag_images\pf.jpg,anthems_music\pf.mp3,anthems_text\pf.txt,
+pg,Papua New Guinea,flag_images\pg.jpg,anthems_music\pg.mp3,anthems_text\pg.txt,
+tm,Turkmenistan,flag_images\tm.jpg,anthems_music\tm.mp3,anthems_text\tm.txt,
+ki,Kiribati,flag_images\ki.jpg,anthems_music\ki.mp3,anthems_text\ki.txt,"[('people', 5), ('love', 4), ('one', 3), ('help', 2), ('steadfastly', 2), ('righteous', 2), ('another', 2), ('promote', 2), ('happiness', 2), ('unity', 2)]"
+sk,Slovakia,flag_images\sk.jpg,anthems_music\sk.mp3,anthems_text\sk.txt,
+il,Israel,flag_images\il.jpg,anthems_music\il.mp3,anthems_text\il.txt,"[('land', 4), ('zion', 3), ('hope', 2), ('free', 2), ('people', 2), ('jerusalem', 2), ('long', 1), ('deep', 1), ('heart', 1), ('soul', 1)]"
+ci,Côte d'Ivoire,flag_images\ci.jpg,anthems_music\ci.mp3,anthems_text\ci.txt,"[('thy', 5), ('hope', 2), ('country', 2), ('ivory', 2), ('coast', 2), ('proud', 2), ('salute', 1), ('land', 1), ('hospitality', 1), ('gallant', 1)]"
+tv,Tuvalu,flag_images\tv.jpg,anthems_music\tv.mp3,anthems_text\tv.txt,
+tz,"Tanzania, United Republic of",flag_images\tz.jpg,anthems_music\tz.mp3,anthems_text\tz.txt,"[('bless', 10), ('africa', 5), ('tanzania', 5), ('god', 3), ('unity', 2), ('people', 2), ('children', 2), ('leaders', 1), ('let', 1), ('wisdom', 1)]"
+gq,Equatorial Guinea,flag_images\gq.jpg,anthems_music\gq.mp3,anthems_text\gq.txt,"[('preserve', 5), ('sing', 4), ('liberty', 4), ('free', 4), ('guinea', 4), ('always', 3), ('without', 2), ('cry', 2), ('long', 2), ('live', 2)]"
+qa,Qatar,flag_images\qa.jpg,anthems_music\qa.mp3,anthems_text\qa.txt,
+mm,Myanmar,flag_images\mm.jpg,anthems_music\mm.mp3,anthems_text\mm.txt,
+dj,Djibouti,flag_images\dj.jpg,anthems_music\dj.mp3,anthems_text\dj.txt,"[('flag', 4), ('arise', 1), ('strength', 1), ('raised', 1), ('cost', 1), ('us', 1), ('dear', 1), ('extremes', 1), ('thirst', 1), ('pain', 1)]"
+vn,Vietnam,flag_images\vn.jpg,anthems_music\vn.mp3,anthems_text\vn.txt,
+cn,China (People's Republic of China),flag_images\cn.jpg,anthems_music\cn.mp3,anthems_text\cn.txt,
+na,Namibia,flag_images\na.jpg,anthems_music\na.mp3,anthems_text\na.txt,
+tg,Togo,flag_images\tg.jpg,anthems_music\tg.mp3,anthems_text\tg.txt,
+gn,Guinea,flag_images\gn.jpg,anthems_music\gn.mp3,anthems_text\gn.txt,"[('people', 4), ('africa', 4), ('brothers', 3), ('call', 3), ('guinea', 2), ('unity', 2), ('liberty', 2), ('voice', 2), ('historic', 1), ('past', 1)]"
+iq,Iraq,flag_images\iq.jpg,anthems_music\iq.mp3,anthems_text\iq.txt,
+sy,Syrian Arab Republic,flag_images\sy.jpg,anthems_music\sy.mp3,anthems_text\sy.txt,
+al,Albania,flag_images\al.jpg,anthems_music\al.mp3,anthems_text\al.txt,"[('one', 2), ('around', 1), ('flag', 1), ('united', 1), ('desire', 1), ('sacred', 1), ('oath', 1), ('proclaiming', 1), ('salvation', 1), ('aspire', 1)]"
+de,Germany,flag_images\de.jpg,anthems_music\de.mp3,anthems_text\de.txt,"[('bloom', 4), ('german', 3), ('fatherland', 3), ('happiness', 3), ('unity', 2), ('right', 2), ('freedom', 2), ('splendour', 2), ('let', 1), ('us', 1)]"
+lu,Luxembourg,flag_images\lu.jpg,anthems_music\lu.mp3,anthems_text\lu.txt,
+mx,Mexico,flag_images\mx.jpg,anthems_music\mx.mp3,anthems_text\mx.txt,
+bz,Belize,flag_images\bz.jpg,anthems_music\bz.mp3,anthems_text\bz.txt,
+mt,Malta,flag_images\mt.jpg,anthems_music\mt.mp3,anthems_text\mt.txt,"[('god', 2), ('give', 2), ('sweet', 1), ('land', 1), ('mother', 1), ('owe', 1), ('name', 1), ('guard', 1), ('lord', 1), ('like', 1)]"
+ge,Georgia,flag_images\ge.jpg,anthems_music\ge.mp3,anthems_text\ge.txt,"[('liberty', 2), ('icon', 1), ('motherland', 1), ('whole', 1), ('world', 1), ('bright', 1), ('mounts', 1), ('valleys', 1), ('shared', 1), ('god', 1)]"
+ke,Kenya,flag_images\ke.jpg,anthems_music\ke.mp3,anthems_text\ke.txt,"[('nation', 2), ('may', 2), ('let', 2), ('one', 2), ('kenya', 2), ('god', 1), ('creation', 1), ('bless', 1), ('land', 1), ('justice', 1)]"
+ro,Romania,flag_images\ro.jpg,anthems_music\ro.mp3,anthems_text\ro.txt,
+ml,Mali,flag_images\ml.jpg,anthems_music\ml.mp3,anthems_text\ml.txt,"[('mali', 6), ('let', 6), ('us', 6), ('africa', 5), ('stand', 4), ('shall', 3), ('united', 3), ('one', 3), ('happiness', 3), ('faithful', 2)]"
+gt,Guatemala,flag_images\gt.jpg,anthems_music\gt.mp3,anthems_text\gt.txt,"[('never', 4), ('soil', 3), ('guatemala', 2), ('may', 2), ('fair', 2), ('flag', 2), ('flying', 2), ('freely', 2), ('wind', 2), ('call', 2)]"
+id,Indonesia,flag_images\id.jpg,anthems_music\id.mp3,anthems_text\id.txt,
+tl,Timor-Leste,flag_images\tl.jpg,anthems_music\tl.mp3,anthems_text\tl.txt,"[('fatherland', 4), ('people', 4), ('east', 2), ('timor', 2), ('nation', 2), ('glory', 2), ('heroes', 2), ('liberation', 2), ('imperialism', 2), ('free', 2)]"
+rw,Rwanda,flag_images\rw.jpg,anthems_music\rw.mp3,anthems_text\rw.txt,"[('us', 6), ('rwanda', 2), ('would', 2), ('filled', 2), ('beautiful', 1), ('dear', 1), ('country', 1), ('adorned', 1), ('hills', 1), ('lakes', 1)]"
+hu,Hungary,flag_images\hu.jpg,anthems_music\hu.mp3,anthems_text\hu.txt,
+ma,Morocco,flag_images\ma.jpg,anthems_music\ma.mp3,anthems_text\ma.txt,"[('light', 2), ('sovereignty', 2), ('safety', 2), ('call', 2), ('fountain', 1), ('freedom', 1), ('source', 1), ('meet', 1), ('may', 1), ('ever', 1)]"
+th,Thailand,flag_images\th.jpg,anthems_music\th.mp3,anthems_text\th.txt,
+sa,Saudi Arabia,flag_images\sa.jpg,anthems_music\sa.mp3,anthems_text\sa.txt,
+st,Sao Tome and Principe,flag_images\st.jpg,anthems_music\st.mp3,anthems_text\st.txt,
+br,Brazil,flag_images\br.jpg,anthems_music\br.mp3,anthems_text\br.txt,
+cu,Cuba,flag_images\cu.jpg,anthems_music\cu.mp3,anthems_text\cu.txt,"[('live', 5), ('hasten', 3), ('battle', 3), ('chains', 2), ('dishonour', 2), ('ignominy', 2), ('hear', 2), ('clarion', 2), ('call', 2), ('braves', 2)]"
+kp,"Korea, Democratic People's Republic of",flag_images\kp.jpg,anthems_music\kp.mp3,anthems_text\kp.txt,"[('let', 3), ('people', 2), ('us', 2), ('korea', 2), ('ever', 2), ('morning', 1), ('shine', 1), ('silver', 1), ('gold', 1), ('land', 1)]"
+om,Oman,flag_images\om.jpg,anthems_music\om.mp3,anthems_text\om.txt,"[('people', 2), ('may', 2), ('live', 2), ('long', 2), ('strong', 2), ('supported', 2), ('glorified', 2), ('leadership', 2), ('shall', 2), ('lay', 2)]"
+af,Afghanistan,flag_images\af.jpg,anthems_music\af.mp3,anthems_text\af.txt,"[('land', 5), ('say', 3), ('allah', 3), ('great', 3), ('every', 2), ('ever', 2), ('afghanistan', 1), ('pride', 1), ('afghan', 1), ('peace', 1)]"
+so,Somalia,flag_images\so.jpg,anthems_music\so.mp3,anthems_text\so.txt,"[('flag', 3), ('oh', 3), ('star', 3), ('every', 2), ('nation', 2), ('like', 2), ('white', 2), ('service', 2), ('day', 2), ('arose', 2)]"
+sg,Singapore,flag_images\sg.jpg,anthems_music\sg.mp3,anthems_text\sg.txt,"[('let', 5), ('singapore', 5), ('onward', 4), ('come', 3), ('us', 3), ('unite', 2), ('new', 2), ('spirit', 2), ('voices', 2), ('soar', 2)]"
+tj,Tajikistan,flag_images\tj.jpg,anthems_music\tj.mp3,anthems_text\tj.txt,
+im,Isle of Man,flag_images\im.jpg,anthems_music\im.mp3,anthems_text\im.txt,
+lb,Lebanon,flag_images\lb.jpg,anthems_music\lb.mp3,anthems_text\lb.txt,
+sz,Kingdom of Eswatini,flag_images\sz.jpg,anthems_music\sz.mp3,anthems_text\sz.txt,"[('lord', 2), ('blessings', 2), ('thee', 2), ('thanks', 2), ('us', 2), ('god', 1), ('bestower', 1), ('swazi', 1), ('give', 1), ('good', 1)]"
+ht,Haiti,flag_images\ht.jpg,anthems_music\ht.mp3,anthems_text\ht.txt,"[('let', 23), ('us', 23), ('country', 14), ('march', 7), ('toil', 7), ('train', 7), ('oh', 7), ('god', 7), ('forefathers', 6), ('forebears', 6)]"
+va,Holy See (Vatican City State),flag_images\va.jpg,anthems_music\va.mp3,anthems_text\va.txt,"[('rome', 6), ('fortunate', 5), ('christ', 5), ('pontiff', 5), ('noble', 4), ('peter', 4), ('earth', 3), ('see', 2), ('teacher', 2), ('confirms', 2)]"
+mu,Mauritius,flag_images\mu.jpg,anthems_music\mu.mp3,anthems_text\mu.txt,"[('thee', 3), ('motherland', 2), ('sweet', 2), ('thy', 2), ('one', 2), ('ever', 2), ('glory', 1), ('mine', 1), ('beauty', 1), ('fragrance', 1)]"
+ws,Samoa,flag_images\ws.jpg,anthems_music\ws.mp3,anthems_text\ws.txt,"[('samoa', 4), ('banner', 4), ('arise', 3), ('crown', 3), ('raise', 2), ('oh', 1), ('see', 1), ('behold', 1), ('stars', 1), ('waving', 1)]"
+sc,Seychelles,flag_images\sc.jpg,anthems_music\sc.mp3,anthems_text\sc.txt,"[('let', 2), ('us', 2), ('seychelles', 1), ('homeland', 1), ('live', 1), ('harmony', 1), ('joy', 1), ('love', 1), ('peace', 1), ('thank', 1)]"
+kw,Kuwait,flag_images\kw.jpg,anthems_music\kw.mp3,anthems_text\kw.txt,"[('kuwait', 6), ('face', 3), ('bright', 3), ('country', 2), ('peace', 1), ('live', 1), ('dignity', 1), ('majesty', 1)]"
+dz,Algeria,flag_images\dz.jpg,anthems_music\dz.mp3,anthems_text\dz.txt,
+zm,Zambia,flag_images\zm.jpg,anthems_music\zm.mp3,anthems_text\zm.txt,
+cf,Central African Republic,flag_images\cf.jpg,anthems_music\cf.mp3,anthems_text\cf.txt,
+mk,North Macedonia,flag_images\mk.jpg,anthems_music\mk.mp3,anthems_text\mk.txt,"[('free', 4), ('macedonia', 3), ('new', 3), ('macedonians', 2), ('fight', 2), ('rights', 2), ('lives', 2), ('today', 1), ('sun', 1), ('freedom', 1)]"
+nz,New Zealand,flag_images\nz.jpg,anthems_music\nz.mp3,anthems_text\nz.txt,
+li,Liechtenstein,flag_images\li.jpg,anthems_music\li.mp3,anthems_text\li.txt,
+lt,Lithuania,flag_images\lt.jpg,anthems_music\lt.mp3,anthems_text\lt.txt,
+ug,Uganda,flag_images\ug.jpg,anthems_music\ug.mp3,anthems_text\ug.txt,
+ne,Niger,flag_images\ne.jpg,anthems_music\ne.mp3,anthems_text\ne.txt,
+nf,Norfolk Island,flag_images\nf.jpg,anthems_music\nf.mp3,anthems_text\nf.txt,
+cz,Czech Republic,flag_images\cz.jpg,anthems_music\cz.mp3,anthems_text\cz.txt,
+no,Norway,flag_images\no.jpg,anthems_music\no.mp3,anthems_text\no.txt,
+gm,Gambia,flag_images\gm.jpg,anthems_music\gm.mp3,anthems_text\gm.txt,
+am,Armenia,flag_images\am.jpg,anthems_music\am.mp3,anthems_text\am.txt,
+ee,Estonia,flag_images\ee.jpg,anthems_music\ee.mp3,anthems_text\ee.txt,
+bt,Bhutan,flag_images\bt.jpg,anthems_music\bt.mp3,anthems_text\bt.txt,"[('druk', 2), ('kingdom', 1), ('cypresses', 1), ('grow', 1), ('refuge', 1), ('glorious', 1), ('monastic', 1), ('civil', 1), ('traditions', 1), ('king', 1)]"
+pa,Panama,flag_images\pa.jpg,anthems_music\pa.mp3,anthems_text\pa.txt,
+km,Comoros,flag_images\km.jpg,anthems_music\km.mp3,anthems_text\km.txt,"[('us', 5), ('islands', 5), ('always', 4), ('love', 4), ('let', 3), ('flag', 2), ('flying', 2), ('nation', 2), ('rises', 2), ('faith', 2)]"
+kh,Cambodia,flag_images\kh.jpg,anthems_music\kh.mp3,anthems_text\kh.txt,
+sb,Solomon Islands,flag_images\sb.jpg,anthems_music\sb.mp3,anthems_text\sb.txt,"[('solomon', 4), ('islands', 4), ('shore', 2), ('god', 1), ('save', 1), ('bless', 1), ('people', 1), ('lands', 1), ('protecting', 1), ('hands', 1)]"
+bm,Bermuda,flag_images\bm.jpg,anthems_music\bm.mp3,anthems_text\bm.txt,
+ni,Nicaragua,flag_images\ni.jpg,anthems_music\ni.mp3,anthems_text\ni.txt,
+fk,Falkland Islands (Malvinas),flag_images\fk.jpg,anthems_music\fk.mp3,anthems_text\fk.txt,
+kz,Kazakhstan,flag_images\kz.jpg,anthems_music\kz.mp3,anthems_text\kz.txt,
+sh,"Saint Helena, Ascension and Tristan da Cunha",flag_images\sh.jpg,anthems_music\sh.mp3,anthems_text\sh.txt,
+cm,Cameroon,flag_images\cm.jpg,anthems_music\cm.mp3,anthems_text\cm.txt,
+fj,Fiji,flag_images\fj.jpg,anthems_music\fj.mp3,anthems_text\fj.txt,"[('fiji', 10), ('god', 5), ('ever', 4), ('bless', 3), ('blessing', 2), ('grant', 2), ('oh', 2), ('nations', 2), ('isles', 2), ('stand', 2)]"
+vi,"Virgin Islands, U.S.",flag_images\vi.jpg,anthems_music\vi.mp3,anthems_text\vi.txt,
+tt,Trinidad and Tobago,flag_images\tt.jpg,anthems_music\tt.mp3,anthems_text\tt.txt,"[('side', 2), ('every', 2), ('creed', 2), ('race', 2), ('equal', 2), ('place', 2), ('may', 2), ('god', 2), ('bless', 2), ('nation', 2)]"
